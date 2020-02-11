@@ -1,5 +1,18 @@
-# Contador
-Contador desenvolvido com HTML, CSS, JavaScript
+<h2>:computer: Projeto</h2>
+Contador Desenvolvido com base para demonstrar meu conhecimento.
 
-<strong>Layout do Contador</strong>
+<h2>:rocket: Tecnologias</h2>
+
+:white_check_mark: - HTML5
+
+:white_check_mark: - CSS3
+
+:white_check_mark: - JavaScript(IF/Else, Math, Reduce, IndexOf, Push, Number)
+
+<h2>:page_facing_up: Layout</h2>
+
 ![Contador Image](https://user-images.githubusercontent.com/45328215/72620287-c4fd7080-391d-11ea-86c9-a66c0464ecc6.png)
+
+<h2>:copyright: Créditos</h2>
+
+[Gustavo Guanabara ](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
