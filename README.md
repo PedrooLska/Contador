@@ -7,7 +7,7 @@ Contador Desenvolvido com base para demonstrar meu conhecimento.
 
 :white_check_mark: - CSS3
 
-:white_check_mark: - JavaScript(IF/Else, Math, Reduce, IndexOf, Push, Number)
+:white_check_mark: - JavaScript(Class, Constructor, This)
 
 <h2>:page_facing_up: Layout</h2>
 
