@@ -2,6 +2,7 @@
 
 * {
     outline: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -9,46 +10,37 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
     height: 100vh;
-
     background: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
-
-    font-family: 'Roboto', sans-serif;
-
     color: white;
 }
 
-.wrapper {
+.content {
     margin: 50px;
 }
 
-.wrapper h1, .wrapper h2 {
+.content__title,
+.content__counter {
     text-align: center;
 }
 
-.wrapper button {
+.content__button {
     padding: 10px 20px;
     margin: auto 10px;
-
     border-radius: 30px;
     border: 1px solid white;
-
     background: transparent;
     color: white;
-
-    font-family: 'Roboto';
     font-weight: bold;
     font-size: 1rem;
-
     cursor: pointer;
 }
 
-.wrapper button:hover {
+.content__button:hover {
     background: white;
     color: black;
 }
 
-footer i {
+.footer__icon-red {
     color: rgb(255, 0, 0);
 }

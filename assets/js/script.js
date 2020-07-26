@@ -1,26 +1,14 @@
-class Contador {
-    constructor () {
+let result = document.querySelector('#result');
+let count = 0
 
-        this.count= 0;
-    }
-
-
-    addCount() {
-        this.showResult(++this.count);
-    }
-
-    decrementCount() {
-        this.showResult(--this.count);
-    }
-
-
-    showResult(count) {
-        let result = document.querySelector('.result');
-
-        result.innerHTML = count;
-    }
-
+const addCount = () => {
+    showResult(++count);
 }
 
+const decrementCount = () => {
+    showResult(--count);
+}
 
-const newContador = new Contador();
+const showResult = (count) => {
+    result.innerHTML = count;
+}

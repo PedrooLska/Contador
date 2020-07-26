@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Contador</title>
-
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
+
 <body>
-    <section class="wrapper">
-        <h1>Contador</h1>
-        <h2 class="result">0</h2>
-        <button onclick="newContador.addCount()">Adicionar 1 ao contador</button>
-        <button onclick="newContador.decrementCount()">Remover 1 do contador</button>
+    <section class="content">
+        <h1 class="content__title">Contador</h1>
+        <h2 class="content__counter" id="result">0</h2>
+        <button class="content__button" onclick="addCount()">Adicionar 1 ao contador</button>
+        <button class="content__button" onclick="decrementCount()">Remover 1 do contador</button>
     </section>
-    <footer><a>Desenvolvido por Pedro Lucas</a> <i class="fas fa-heart"></i></footer>
-    
+    <footer class="footer"><a>Desenvolvido por Pedro Lucas</a> <i class="footer__icon-red fas fa-heart"></i></footer>
+
     <script src="./assets/js/script.js"></script>
 </body>
+
 </html>
