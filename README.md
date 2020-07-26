@@ -5,9 +5,9 @@ Contador Desenvolvido com base para demonstrar meu conhecimento.
 
 :white_check_mark: - HTML5
 
-:white_check_mark: - CSS3
+:white_check_mark: - CSS3 (BEM Architeture)
 
-:white_check_mark: - JavaScript(Class, Constructor, This)
+:white_check_mark: - JavaScript(Arrow Function, Sugar Syntax)
 
 <h2>:page_facing_up: Layout</h2>
 
