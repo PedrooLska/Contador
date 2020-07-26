@@ -7,7 +7,7 @@ Contador Desenvolvido com base para demonstrar meu conhecimento.
 
 :white_check_mark: - CSS3 (BEM Architeture)
 
-:white_check_mark: - JavaScript(Arrow Function, Sugar Syntax)
+:white_check_mark: - JavaScript (Arrow Function, Sugar Syntax)
 
 <h2>:page_facing_up: Layout</h2>
 
